@@ -1,6 +1,5 @@
 # 💫 About Me:
 :woman_student: I'm currently pursuing Information Technology at University of Washington Tacoma<br>
-:woman_technologist:	I'm learning Python, SQL to get hands-on experience in Data Analytics.<br>
 
 
 ## 🌐 Socials:
