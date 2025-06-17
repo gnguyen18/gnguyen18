@@ -1,5 +1,5 @@
 # 💫 About Me:
-:woman_student: I'm currently pursuing Information Technology at University of Washington Tacoma<br>
+:woman_student: I graduated in Information Technology at University of Washington Tacoma<br>
 
 
 ## 🌐 Socials:
